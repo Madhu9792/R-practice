@@ -1,3 +1,13 @@
+X=45
+Y=76.4
+Z="hELLO"
+Q=TRUE
+
+class(X)
+class(Y)
+class(Z)
+class(Q)
+
 # Simple R Program to Calculate the Average
 
 # Create a vector of numbers
